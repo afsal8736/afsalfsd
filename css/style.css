@@ -1,0 +1,28 @@
+.heading1{
+    border: 2px solid yellow;
+    color: black;
+    padding: 30px;
+    background-color: yellow;
+    margin: 20px;
+}
+.heading2{
+    border: 2px solid green;
+    color: black;
+    padding: 30px;
+    background-color: green;
+    margin: 20px;
+}
+.headind3{
+    border: 2px solid brown;
+    color: black;
+    padding: 30px;
+    background-color: brown;
+    margin: 20px;
+}
+.heading4{
+    border: 2px salmon blue;
+    color: black;
+    padding: 30px;
+    background-color: solid blue;
+    margin: 20px;
+}

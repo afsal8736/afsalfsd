@@ -1,0 +1,24 @@
+body{
+    background-image: url("../images/360_F_557140771_TpgYMUHTXg1HqjBSYXIncD1UzcFPTiHI.jpg");
+    background-size: cover;
+    
+}
+ 
+.navigation {
+    float: right;
+    margin-top: 20px;
+}
+.navigation a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+    padding: 10px;
+}
+header{
+    background-color: black;
+}
+.navigation a:hover {
+    background-color: red;
+    color: black;
+}
